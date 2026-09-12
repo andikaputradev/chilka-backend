@@ -1,0 +1,1559 @@
+[
+ {
+  "kelas": "XI TKJ 1",
+  "jurusan": "TEKNIK KOMPUTER DAN JARINGAN",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2501242",
+    "nama": "ALVINO PRANATA",
+    "jk": "L"
+   },
+   {
+    "no": 2,
+    "nis": "2501243",
+    "nama": "ANDIKA PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 3,
+    "nis": "2501244",
+    "nama": "ANDRA SEBASTIAN",
+    "jk": "L"
+   },
+   {
+    "no": 4,
+    "nis": "2501245",
+    "nama": "BUNGA VASELA PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 5,
+    "nis": "2501246",
+    "nama": "CALFIN APRILIO",
+    "jk": "L"
+   },
+   {
+    "no": 6,
+    "nis": "2501247",
+    "nama": "DINO FERNANDES",
+    "jk": "L"
+   },
+   {
+    "no": 7,
+    "nis": "2501248",
+    "nama": "DWI ANDIKA PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 8,
+    "nis": "2501249",
+    "nama": "GHAZI ADIYATMA",
+    "jk": "L"
+   },
+   {
+    "no": 9,
+    "nis": "2501250",
+    "nama": "GIVRYA NAINILA PUTRY",
+    "jk": "P"
+   },
+   {
+    "no": 10,
+    "nis": "2501251",
+    "nama": "HARUN ALRASYID",
+    "jk": "L"
+   },
+   {
+    "no": 11,
+    "nis": "2501252",
+    "nama": "ILHAM FAHREZI",
+    "jk": "L"
+   },
+   {
+    "no": 12,
+    "nis": "2501253",
+    "nama": "KENZELLO LAKSAMANA",
+    "jk": "L"
+   },
+   {
+    "no": 13,
+    "nis": "2501254",
+    "nama": "MUHAMMAD ARIF RAHMAT GUCI",
+    "jk": "L"
+   },
+   {
+    "no": 14,
+    "nis": "2501255",
+    "nama": "MUHAMMAD FADHLY",
+    "jk": "L"
+   },
+   {
+    "no": 15,
+    "nis": "2501256",
+    "nama": "MUHAMMAD FAJAR AQSO",
+    "jk": "L"
+   },
+   {
+    "no": 16,
+    "nis": "2501257",
+    "nama": "MUHAMMAD FAREL ALFARIZY",
+    "jk": "L"
+   },
+   {
+    "no": 17,
+    "nis": "2501258",
+    "nama": "MUHAMMAD HAKIM",
+    "jk": "L"
+   },
+   {
+    "no": 18,
+    "nis": "2501260",
+    "nama": "MUHAMMAD IKHSAN ALFAHRIZY",
+    "jk": "L"
+   },
+   {
+    "no": 19,
+    "nis": "2501261",
+    "nama": "MUHAMMAD ILHAM",
+    "jk": "L"
+   },
+   {
+    "no": 20,
+    "nis": "2501262",
+    "nama": "MUHAMMAD IQBAL AGIFARY",
+    "jk": "L"
+   },
+   {
+    "no": 21,
+    "nis": "2501263",
+    "nama": "NAYLA FITRI SALSA BILA",
+    "jk": "P"
+   },
+   {
+    "no": 22,
+    "nis": "2501265",
+    "nama": "REVAN FEBRIAN",
+    "jk": "L"
+   },
+   {
+    "no": 23,
+    "nis": "2501266",
+    "nama": "REYFALDO PRATAMA",
+    "jk": "L"
+   },
+   {
+    "no": 24,
+    "nis": "2501267",
+    "nama": "RIDO FADHLAN",
+    "jk": "L"
+   },
+   {
+    "no": 25,
+    "nis": "2501268",
+    "nama": "TARA MARYSA NABILA",
+    "jk": "P"
+   },
+   {
+    "no": 26,
+    "nis": "2501269",
+    "nama": "VIOLA NOVELIANI ZUREF",
+    "jk": "P"
+   },
+   {
+    "no": 27,
+    "nis": "2501270",
+    "nama": "ZULFA RIFANA",
+    "jk": "P"
+   },
+   {
+    "no": 28,
+    "nis": "2501271",
+    "nama": "ZULKIFLI HAMDANI",
+    "jk": "L"
+   }
+  ],
+  "sheet": "XI TKJ 1"
+ },
+ {
+  "kelas": "XI TKJ 2",
+  "jurusan": "TEKNIK KOMPUTER DAN JARINGAN",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2501273",
+    "nama": "APDUL ZIKRI",
+    "jk": "L"
+   },
+   {
+    "no": 2,
+    "nis": "2501275",
+    "nama": "ARDIANSYAH",
+    "jk": "L"
+   },
+   {
+    "no": 3,
+    "nis": "2501276",
+    "nama": "AZKIA RAHMADANI",
+    "jk": "P"
+   },
+   {
+    "no": 4,
+    "nis": "2501277",
+    "nama": "BOBI JULIANTO",
+    "jk": "L"
+   },
+   {
+    "no": 5,
+    "nis": "2501278",
+    "nama": "DAFFA DIO ANUGRAH",
+    "jk": "L"
+   },
+   {
+    "no": 6,
+    "nis": "2501280",
+    "nama": "FAUZUL AZMI",
+    "jk": "L"
+   },
+   {
+    "no": 7,
+    "nis": "2501282",
+    "nama": "HAYCHAL INDRISCA",
+    "jk": "L"
+   },
+   {
+    "no": 8,
+    "nis": "2501283",
+    "nama": "KHOLISH",
+    "jk": "L"
+   },
+   {
+    "no": 9,
+    "nis": "2501284",
+    "nama": "MUHAMMAD IQBAL FEBRINO",
+    "jk": "L"
+   },
+   {
+    "no": 10,
+    "nis": "2501285",
+    "nama": "MUHAMMAD NABIL",
+    "jk": "L"
+   },
+   {
+    "no": 11,
+    "nis": "2501286",
+    "nama": "MUHAMMAD NADHIF APRIANSYAH",
+    "jk": "L"
+   },
+   {
+    "no": 12,
+    "nis": "2501287",
+    "nama": "MUHAMMAD RAFAEL",
+    "jk": "L"
+   },
+   {
+    "no": 13,
+    "nis": "2501289",
+    "nama": "MUHAMMAD RAFI",
+    "jk": "L"
+   },
+   {
+    "no": 14,
+    "nis": "2501291",
+    "nama": "MUHAMMAD REZQI",
+    "jk": "L"
+   },
+   {
+    "no": 15,
+    "nis": "2501292",
+    "nama": "MUHAMMAD RIDHO ARIZKI",
+    "jk": "L"
+   },
+   {
+    "no": 16,
+    "nis": "2501293",
+    "nama": "MUKHARAMAH SHAQIL SATIAWAN",
+    "jk": "L"
+   },
+   {
+    "no": 17,
+    "nis": "2501294",
+    "nama": "PADHIKA FARYANDES",
+    "jk": "L"
+   },
+   {
+    "no": 18,
+    "nis": "2501295",
+    "nama": "PRISKA HENDRIANA",
+    "jk": "P"
+   },
+   {
+    "no": 19,
+    "nis": "2501296",
+    "nama": "RIZA RAMADHAN",
+    "jk": "L"
+   },
+   {
+    "no": 20,
+    "nis": "2501297",
+    "nama": "RIZKI HIDAYATULLAH",
+    "jk": "L"
+   },
+   {
+    "no": 21,
+    "nis": "2501298",
+    "nama": "RIZKI YOHENDRA",
+    "jk": "L"
+   },
+   {
+    "no": 22,
+    "nis": "2501300",
+    "nama": "SHAIRA TUL NABILA",
+    "jk": "P"
+   },
+   {
+    "no": 23,
+    "nis": "2501301",
+    "nama": "TEGAR",
+    "jk": "L"
+   },
+   {
+    "no": 24,
+    "nis": "2501302",
+    "nama": "TIARA AULIA",
+    "jk": "P"
+   }
+  ],
+  "sheet": "XI TKJ 2"
+ },
+ {
+  "kelas": "XI TKJ 3",
+  "jurusan": "TEKNIK KOMPUTER DAN JARINGAN",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2501304",
+    "nama": "ADITYA SAPUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 2,
+    "nis": "2501305",
+    "nama": "AGUS RAHMAN PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 3,
+    "nis": "2501306",
+    "nama": "AHMAD FAIZAL BAGASKARA",
+    "jk": "L"
+   },
+   {
+    "no": 4,
+    "nis": "2501307",
+    "nama": "AHMAD FIRDAUS",
+    "jk": "L"
+   },
+   {
+    "no": 5,
+    "nis": "2501308",
+    "nama": "BUNGA RAMADANI",
+    "jk": "P"
+   },
+   {
+    "no": 6,
+    "nis": "2501309",
+    "nama": "FACHRI ARRAHMAN",
+    "jk": "L"
+   },
+   {
+    "no": 7,
+    "nis": "2501333",
+    "nama": "FAJAR SATRIA PRATAMA",
+    "jk": "L"
+   },
+   {
+    "no": 8,
+    "nis": "2501310",
+    "nama": "FAREL SEPTIANO RAMADHAN",
+    "jk": "L"
+   },
+   {
+    "no": 9,
+    "nis": "2501311",
+    "nama": "GABRIEL UMAR SIDDIQ",
+    "jk": "L"
+   },
+   {
+    "no": 10,
+    "nis": "2501312",
+    "nama": "HAFSAH PUTRI ARDA",
+    "jk": "P"
+   },
+   {
+    "no": 11,
+    "nis": "2501313",
+    "nama": "HARDIYANSYAH",
+    "jk": "L"
+   },
+   {
+    "no": 12,
+    "nis": "2501314",
+    "nama": "IBNU RAFA MAULANA",
+    "jk": "L"
+   },
+   {
+    "no": 13,
+    "nis": "2501315",
+    "nama": "KHEYSHA AMELIA",
+    "jk": "P"
+   },
+   {
+    "no": 14,
+    "nis": "2501316",
+    "nama": "M HIFZI RAHMAN",
+    "jk": "L"
+   },
+   {
+    "no": 15,
+    "nis": "2501317",
+    "nama": "M.FAHRI",
+    "jk": "L"
+   },
+   {
+    "no": 16,
+    "nis": "2501318",
+    "nama": "MAURA PUTRI ARICHA",
+    "jk": "P"
+   },
+   {
+    "no": 17,
+    "nis": "2501319",
+    "nama": "MUHAMAD ARIF",
+    "jk": "L"
+   },
+   {
+    "no": 18,
+    "nis": "2501320",
+    "nama": "MUHAMAD FAJRI",
+    "jk": "L"
+   },
+   {
+    "no": 19,
+    "nis": "2501321",
+    "nama": "MUHAMMAD ABDUL HADI",
+    "jk": "L"
+   },
+   {
+    "no": 20,
+    "nis": "2501322",
+    "nama": "MUHAMMAD ALFAUZAN",
+    "jk": "L"
+   },
+   {
+    "no": 21,
+    "nis": "2501323",
+    "nama": "MUHAMMAD ANDIKA",
+    "jk": "L"
+   },
+   {
+    "no": 22,
+    "nis": "2501324",
+    "nama": "MUHAMMAD ZIKRI ZULFA",
+    "jk": "L"
+   },
+   {
+    "no": 23,
+    "nis": "2501326",
+    "nama": "NABILLA DWI PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 24,
+    "nis": "2501327",
+    "nama": "RAKEL ADIAKSYA DIRA",
+    "jk": "L"
+   },
+   {
+    "no": 25,
+    "nis": "2501328",
+    "nama": "RANDI SEPTIA RAMADHAN",
+    "jk": "L"
+   },
+   {
+    "no": 26,
+    "nis": "2501329",
+    "nama": "RANGGA ADITIYA",
+    "jk": "L"
+   },
+   {
+    "no": 27,
+    "nis": "2501330",
+    "nama": "SYAIHAN PERSADA WILIAN",
+    "jk": "L"
+   },
+   {
+    "no": 28,
+    "nis": "2501332",
+    "nama": "YUDHA CANDRA",
+    "jk": "L"
+   }
+  ],
+  "sheet": "XI TKJ 3"
+ },
+ {
+  "kelas": "XI RPL 1",
+  "jurusan": "REKAYASA PERANGKAT LUNAK",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2502167",
+    "nama": "ADELIOVARO DE AWARI",
+    "jk": "L"
+   },
+   {
+    "no": 2,
+    "nis": "2502168",
+    "nama": "AIDIL FADLI AMIN",
+    "jk": "L"
+   },
+   {
+    "no": 3,
+    "nis": "2502169",
+    "nama": "AISYA SILIA PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 4,
+    "nis": "2502170",
+    "nama": "ALFIAN ZULHAMDI PRASETIO",
+    "jk": "L"
+   },
+   {
+    "no": 5,
+    "nis": "2502171",
+    "nama": "BINTANG CARLEK",
+    "jk": "L"
+   },
+   {
+    "no": 6,
+    "nis": "2502172",
+    "nama": "DEICKO RAZZAQ PRATAMA",
+    "jk": "L"
+   },
+   {
+    "no": 7,
+    "nis": "2502173",
+    "nama": "DYAN KIRANA PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 8,
+    "nis": "2502174",
+    "nama": "ELSA MELANI",
+    "jk": "P"
+   },
+   {
+    "no": 9,
+    "nis": "2502175",
+    "nama": "FAIZAH UZMA AFIYAH",
+    "jk": "P"
+   },
+   {
+    "no": 10,
+    "nis": "2502176",
+    "nama": "FAREL SAPUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 11,
+    "nis": "2502177",
+    "nama": "FATHMA NURUL AINI",
+    "jk": "P"
+   },
+   {
+    "no": 12,
+    "nis": "2502179",
+    "nama": "GISELA NADIA PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 13,
+    "nis": "2502180",
+    "nama": "HANIF MIKA RAHIL",
+    "jk": "L"
+   },
+   {
+    "no": 14,
+    "nis": "2502181",
+    "nama": "IKSAHNUL FAUZI AL GHANI",
+    "jk": "L"
+   },
+   {
+    "no": 15,
+    "nis": "2502182",
+    "nama": "JEKRIZUL",
+    "jk": "L"
+   },
+   {
+    "no": 16,
+    "nis": "2502183",
+    "nama": "KENZIE JOANNA DHIYAULHAQ",
+    "jk": "L"
+   },
+   {
+    "no": 17,
+    "nis": "2502184",
+    "nama": "KEYLA RAHMI PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 18,
+    "nis": "2502185",
+    "nama": "MAULANA IBRAHIM",
+    "jk": "L"
+   },
+   {
+    "no": 19,
+    "nis": "2502187",
+    "nama": "MUHAMMAD DAFA",
+    "jk": "L"
+   },
+   {
+    "no": 20,
+    "nis": "2502189",
+    "nama": "RAMADHAN AL BUTHI",
+    "jk": "L"
+   },
+   {
+    "no": 21,
+    "nis": "2502190",
+    "nama": "REMON CANIAGO",
+    "jk": "L"
+   },
+   {
+    "no": 22,
+    "nis": "2502191",
+    "nama": "RHADIED PRAYUDA",
+    "jk": "L"
+   },
+   {
+    "no": 23,
+    "nis": "2502192",
+    "nama": "RIFKA AFRILIA PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 24,
+    "nis": "2502193",
+    "nama": "SABRINA NAJWA",
+    "jk": "P"
+   },
+   {
+    "no": 25,
+    "nis": "2502194",
+    "nama": "TRISTAN HAIDAL FAHRESY",
+    "jk": "L"
+   }
+  ],
+  "sheet": "XI RPL 1"
+ },
+ {
+  "kelas": "XI RPL 2",
+  "jurusan": "REKAYASA PERANGKAT LUNAK",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2502197",
+    "nama": "ANGGI RISKI ZAHARA",
+    "jk": "P"
+   },
+   {
+    "no": 2,
+    "nis": "2502198",
+    "nama": "ARFAN ADITIA WARMAN",
+    "jk": "L"
+   },
+   {
+    "no": 3,
+    "nis": "2502199",
+    "nama": "AURA SYAKILA",
+    "jk": "P"
+   },
+   {
+    "no": 4,
+    "nis": "2502200",
+    "nama": "BIMA NANDA PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 5,
+    "nis": "2502201",
+    "nama": "DAFFA PERWIRA YASIG",
+    "jk": "L"
+   },
+   {
+    "no": 6,
+    "nis": "2502202",
+    "nama": "FAIZ ALDINO",
+    "jk": "L"
+   },
+   {
+    "no": 7,
+    "nis": "2502203",
+    "nama": "FAJAR RAMADHAN",
+    "jk": "L"
+   },
+   {
+    "no": 8,
+    "nis": "2502204",
+    "nama": "FALIH IKHWANDA",
+    "jk": "L"
+   },
+   {
+    "no": 9,
+    "nis": "2502205",
+    "nama": "GHILANG TAUFIQ ZACKY",
+    "jk": "L"
+   },
+   {
+    "no": 10,
+    "nis": "2502206",
+    "nama": "ILHAMI ZIKRI",
+    "jk": "L"
+   },
+   {
+    "no": 11,
+    "nis": "2502207",
+    "nama": "IRFAN NUR WAHID",
+    "jk": "L"
+   },
+   {
+    "no": 12,
+    "nis": "2502208",
+    "nama": "JUMADIL AL FARINZI",
+    "jk": "L"
+   },
+   {
+    "no": 13,
+    "nis": "2502209",
+    "nama": "LOLA YUL FITRI",
+    "jk": "P"
+   },
+   {
+    "no": 14,
+    "nis": "2502210",
+    "nama": "M. ATHA TAZAKKA",
+    "jk": "L"
+   },
+   {
+    "no": 15,
+    "nis": "2502211",
+    "nama": "MUHAMMAD NUR MUIZ",
+    "jk": "L"
+   },
+   {
+    "no": 16,
+    "nis": "2502212",
+    "nama": "MUHAMMAD RAAFI ALVARES",
+    "jk": "L"
+   },
+   {
+    "no": 17,
+    "nis": "2502213",
+    "nama": "MUHAMMAD RIFQI",
+    "jk": "L"
+   },
+   {
+    "no": 18,
+    "nis": "2502214",
+    "nama": "NAISHA SYAFITRI",
+    "jk": "P"
+   },
+   {
+    "no": 19,
+    "nis": "2502215",
+    "nama": "NAUFAL ALVARO TAMBUNAN",
+    "jk": "L"
+   },
+   {
+    "no": 20,
+    "nis": "2502216",
+    "nama": "NESYA CECILIA FERNANDO CHANGKARIA",
+    "jk": "P"
+   },
+   {
+    "no": 21,
+    "nis": "2502217",
+    "nama": "RAHMAD MUZAKIR",
+    "jk": "L"
+   },
+   {
+    "no": 22,
+    "nis": "2502218",
+    "nama": "RAYHAN SURYANDA PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 23,
+    "nis": "2502219",
+    "nama": "SUKA KAORU HONESTY",
+    "jk": "P"
+   },
+   {
+    "no": 24,
+    "nis": "2502220",
+    "nama": "YOVIE ALFINUR KHOIRI",
+    "jk": "L"
+   }
+  ],
+  "sheet": "XI RPL 2 "
+ },
+ {
+  "kelas": "XI DKV 1",
+  "jurusan": "DESAIN KOMUNIKASI VISUAL",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2504226",
+    "nama": "ALI IMRAN",
+    "jk": "L"
+   },
+   {
+    "no": 2,
+    "nis": "2504227",
+    "nama": "ANISA FEBRINA YENTI",
+    "jk": "P"
+   },
+   {
+    "no": 3,
+    "nis": "2504228",
+    "nama": "ANJELA NOFRITA",
+    "jk": "P"
+   },
+   {
+    "no": 4,
+    "nis": "2504229",
+    "nama": "ARI ABDUR RAHMAN",
+    "jk": "L"
+   },
+   {
+    "no": 5,
+    "nis": "2504230",
+    "nama": "ATHAYA LUQMAN HAKIM",
+    "jk": "L"
+   },
+   {
+    "no": 6,
+    "nis": "2504231",
+    "nama": "AULIA SUCI RAHMADHANI",
+    "jk": "P"
+   },
+   {
+    "no": 7,
+    "nis": "2504232",
+    "nama": "AURELLYA PUTRI ZAHARA",
+    "jk": "P"
+   },
+   {
+    "no": 8,
+    "nis": "2504233",
+    "nama": "DEA MARYANI",
+    "jk": "P"
+   },
+   {
+    "no": 9,
+    "nis": "2504234",
+    "nama": "DIMAS SAPUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 10,
+    "nis": "2504235",
+    "nama": "FARAH YUMNA SYA'BANA",
+    "jk": "P"
+   },
+   {
+    "no": 11,
+    "nis": "2504236",
+    "nama": "FIGO ALFARO",
+    "jk": "L"
+   },
+   {
+    "no": 12,
+    "nis": "2504237",
+    "nama": "FILBERT JIOFANI",
+    "jk": "L"
+   },
+   {
+    "no": 13,
+    "nis": "2504238",
+    "nama": "GAZZA ADYA PRATAMA",
+    "jk": "L"
+   },
+   {
+    "no": 14,
+    "nis": "2504239",
+    "nama": "HANURAWATI",
+    "jk": "P"
+   },
+   {
+    "no": 15,
+    "nis": "2504240",
+    "nama": "ILHAM ADI PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 16,
+    "nis": "2504241",
+    "nama": "INDAH AZELYA PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 17,
+    "nis": "2504242",
+    "nama": "IQBAL AFNIZAL",
+    "jk": "L"
+   },
+   {
+    "no": 18,
+    "nis": "2504243",
+    "nama": "JULIAN AQFADIL",
+    "jk": "L"
+   },
+   {
+    "no": 19,
+    "nis": "2504244",
+    "nama": "KEVIN ANTONIO",
+    "jk": "L"
+   },
+   {
+    "no": 20,
+    "nis": "2504245",
+    "nama": "MUHAMAD FAIZ",
+    "jk": "L"
+   },
+   {
+    "no": 21,
+    "nis": "2504246",
+    "nama": "MUHAMMAD FERNANDO",
+    "jk": "L"
+   },
+   {
+    "no": 22,
+    "nis": "2504247",
+    "nama": "MUHAMMAD NABIL HISYAM",
+    "jk": "L"
+   },
+   {
+    "no": 23,
+    "nis": "2504249",
+    "nama": "MUHAMMAD REYFAN",
+    "jk": "L"
+   },
+   {
+    "no": 24,
+    "nis": "2504250",
+    "nama": "MUTHIA APRINELZA",
+    "jk": "P"
+   },
+   {
+    "no": 25,
+    "nis": "2504251",
+    "nama": "NAZWA DWI PUTRI ADELIA",
+    "jk": "P"
+   },
+   {
+    "no": 26,
+    "nis": "2504253",
+    "nama": "NUR HAZIZAH",
+    "jk": "P"
+   },
+   {
+    "no": 27,
+    "nis": "2504254",
+    "nama": "OLIN SHAFIRA",
+    "jk": "P"
+   },
+   {
+    "no": 28,
+    "nis": "2504255",
+    "nama": "RAFALINO ADITYA",
+    "jk": "L"
+   },
+   {
+    "no": 29,
+    "nis": "2504256",
+    "nama": "RAFKHA DESLLA",
+    "jk": "L"
+   },
+   {
+    "no": 30,
+    "nis": "2504257",
+    "nama": "RAHMAT ALMAJID",
+    "jk": "L"
+   },
+   {
+    "no": 31,
+    "nis": "2504258",
+    "nama": "RAMJAL PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 32,
+    "nis": "2504259",
+    "nama": "REVAN AFFANDI",
+    "jk": "L"
+   },
+   {
+    "no": 33,
+    "nis": "2504260",
+    "nama": "SARIFAHAINI",
+    "jk": "P"
+   }
+  ],
+  "sheet": "XI DKV 1"
+ },
+ {
+  "kelas": "XI DKV 2",
+  "jurusan": "DESAIN KOMUNIKASI VISUAL",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2504262",
+    "nama": "ADINDA ZAHWA",
+    "jk": "P"
+   },
+   {
+    "no": 2,
+    "nis": "2504263",
+    "nama": "AFDHAL RIZKY",
+    "jk": "L"
+   },
+   {
+    "no": 3,
+    "nis": "2504265",
+    "nama": "AHMAD MAULANA",
+    "jk": "L"
+   },
+   {
+    "no": 4,
+    "nis": "2504266",
+    "nama": "AL HAFIZ SALAM",
+    "jk": "L"
+   },
+   {
+    "no": 5,
+    "nis": "2504268",
+    "nama": "DIRA MAHARANI",
+    "jk": "P"
+   },
+   {
+    "no": 6,
+    "nis": "2504269",
+    "nama": "DORIS ARLENDRIKO",
+    "jk": "L"
+   },
+   {
+    "no": 7,
+    "nis": "2504270",
+    "nama": "FAJAR RAMADHAN",
+    "jk": "L"
+   },
+   {
+    "no": 8,
+    "nis": "2504271",
+    "nama": "FATIHATUL NADIFA",
+    "jk": "P"
+   },
+   {
+    "no": 9,
+    "nis": "2504274",
+    "nama": "HADIP ARDIWINATA",
+    "jk": "L"
+   },
+   {
+    "no": 10,
+    "nis": "2504275",
+    "nama": "IBRAHIM MOVID",
+    "jk": "L"
+   },
+   {
+    "no": 11,
+    "nis": "2504276",
+    "nama": "IKRAM REFANDA",
+    "jk": "L"
+   },
+   {
+    "no": 12,
+    "nis": "2504278",
+    "nama": "KELVIN SYAH PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 13,
+    "nis": "2504279",
+    "nama": "MUHAMAD RAFIQ ALGIFARI",
+    "jk": "L"
+   },
+   {
+    "no": 14,
+    "nis": "2504280",
+    "nama": "MUHAMMAD FAREL",
+    "jk": "L"
+   },
+   {
+    "no": 15,
+    "nis": "2504281",
+    "nama": "MUHAMMAD ILHAM",
+    "jk": "L"
+   },
+   {
+    "no": 16,
+    "nis": "2504282",
+    "nama": "MUHAMMAD INSANUL ARIFIN",
+    "jk": "L"
+   },
+   {
+    "no": 17,
+    "nis": "2504283",
+    "nama": "MUHAMMAD RIFKI AL HABIB",
+    "jk": "L"
+   },
+   {
+    "no": 18,
+    "nis": "2504284",
+    "nama": "MURIDATUL ILMI",
+    "jk": "P"
+   },
+   {
+    "no": 19,
+    "nis": "2504285",
+    "nama": "NAILA MUKHTAR",
+    "jk": "P"
+   },
+   {
+    "no": 20,
+    "nis": "2504286",
+    "nama": "NAKEYSHA HAFIDZAH MASATRIO",
+    "jk": "P"
+   },
+   {
+    "no": 21,
+    "nis": "2504287",
+    "nama": "NAYSILA SYAMAR",
+    "jk": "P"
+   },
+   {
+    "no": 22,
+    "nis": "2504289",
+    "nama": "PUTRI SASKIA MEKA",
+    "jk": "P"
+   },
+   {
+    "no": 23,
+    "nis": "2504290",
+    "nama": "RANGGA REDIANOF",
+    "jk": "L"
+   },
+   {
+    "no": 24,
+    "nis": "2504291",
+    "nama": "RAVEL MAHE SANDRO",
+    "jk": "L"
+   },
+   {
+    "no": 25,
+    "nis": "2504292",
+    "nama": "REYFANS IQLESINO",
+    "jk": "L"
+   },
+   {
+    "no": 26,
+    "nis": "2504293",
+    "nama": "RINOFA DWI ANANDA",
+    "jk": "L"
+   },
+   {
+    "no": 27,
+    "nis": "2504294",
+    "nama": "RIZKY JUAN FERNANDO",
+    "jk": "L"
+   },
+   {
+    "no": 28,
+    "nis": "2504295",
+    "nama": "SALSA NABILA FAHSYA",
+    "jk": "P"
+   },
+   {
+    "no": 29,
+    "nis": "2504296",
+    "nama": "SALSABILA CANTIKA SENTOSA",
+    "jk": "P"
+   }
+  ],
+  "sheet": "XI DKV 2"
+ },
+ {
+  "kelas": "XI PSPT 1",
+  "jurusan": "PRODUKSI SIARAN PROGRAM TELEVISI",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2503129",
+    "nama": "ADAM ARRAHMAN",
+    "jk": "L"
+   },
+   {
+    "no": 2,
+    "nis": "2503130",
+    "nama": "AHMAD HABIBULLAH",
+    "jk": "L"
+   },
+   {
+    "no": 3,
+    "nis": "2503131",
+    "nama": "AIRHA RAHAYU",
+    "jk": "L"
+   },
+   {
+    "no": 4,
+    "nis": "2503132",
+    "nama": "ALDO SAPUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 5,
+    "nis": "2503134",
+    "nama": "ALFI RAHMAT KHAIRAN",
+    "jk": "L"
+   },
+   {
+    "no": 6,
+    "nis": "2503136",
+    "nama": "AUFAA TURRAHMAH",
+    "jk": "P"
+   },
+   {
+    "no": 7,
+    "nis": "2503137",
+    "nama": "BAHIR APTA FARAND",
+    "jk": "L"
+   },
+   {
+    "no": 8,
+    "nis": "2503138",
+    "nama": "DEWI ANDINI",
+    "jk": "P"
+   },
+   {
+    "no": 9,
+    "nis": "2503139",
+    "nama": "FAHQREL HADI FIRANSYAH",
+    "jk": "L"
+   },
+   {
+    "no": 10,
+    "nis": "2503140",
+    "nama": "FAHRI APRILIO",
+    "jk": "L"
+   },
+   {
+    "no": 11,
+    "nis": "2503141",
+    "nama": "FAUZAN ANUGRAH",
+    "jk": "L"
+   },
+   {
+    "no": 12,
+    "nis": "2503142",
+    "nama": "FURQON SHALIHAT",
+    "jk": "L"
+   },
+   {
+    "no": 13,
+    "nis": "2503143",
+    "nama": "HUDALIL ABI",
+    "jk": "L"
+   },
+   {
+    "no": 14,
+    "nis": "2503145",
+    "nama": "ISMAIL MUBARAQ",
+    "jk": "L"
+   },
+   {
+    "no": 15,
+    "nis": "2503146",
+    "nama": "LAURA PUTRI RIANA",
+    "jk": "P"
+   },
+   {
+    "no": 16,
+    "nis": "2503147",
+    "nama": "MARVEL ADITYA BUSRA",
+    "jk": "L"
+   },
+   {
+    "no": 17,
+    "nis": "2503148",
+    "nama": "MUHAMMAD EFMI FATTAN",
+    "jk": "L"
+   },
+   {
+    "no": 18,
+    "nis": "2503149",
+    "nama": "MUHAMMAD FUJI FORTUNA",
+    "jk": "L"
+   },
+   {
+    "no": 19,
+    "nis": "2503151",
+    "nama": "MUHAMMAD RAKA RIFALDO",
+    "jk": "L"
+   },
+   {
+    "no": 20,
+    "nis": "2503153",
+    "nama": "NIA RAMADANI",
+    "jk": "P"
+   },
+   {
+    "no": 21,
+    "nis": "2503154",
+    "nama": "PUTRI BALQIS BINERVA",
+    "jk": "P"
+   },
+   {
+    "no": 22,
+    "nis": "2503155",
+    "nama": "PUTRI KEYSHA",
+    "jk": "P"
+   },
+   {
+    "no": 23,
+    "nis": "2503156",
+    "nama": "RAKA NOFENDRA",
+    "jk": "L"
+   },
+   {
+    "no": 24,
+    "nis": "2503157",
+    "nama": "RASYAD SAPUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 25,
+    "nis": "2503158",
+    "nama": "RATU HAYYUDE MAHARANI",
+    "jk": "P"
+   },
+   {
+    "no": 26,
+    "nis": "2503160",
+    "nama": "SERILA FIFIYANA",
+    "jk": "P"
+   },
+   {
+    "no": 27,
+    "nis": "2503161",
+    "nama": "TIARA PUTRI RAMADANI",
+    "jk": "P"
+   },
+   {
+    "no": 28,
+    "nis": "2503162",
+    "nama": "VIKY WINATA",
+    "jk": "L"
+   },
+   {
+    "no": 29,
+    "nis": "2503163",
+    "nama": "WANGI CAHAYU PUTRI",
+    "jk": "P"
+   },
+   {
+    "no": 30,
+    "nis": "2503164",
+    "nama": "ZAKY ABIYAN FADENI",
+    "jk": "L"
+   }
+  ],
+  "sheet": "XI PSPT 1"
+ },
+ {
+  "kelas": "XI PSPT 2",
+  "jurusan": "PRODUKSI SIARAN PROGRAM TELEVISI",
+  "siswa": [
+   {
+    "no": 1,
+    "nis": "2503165",
+    "nama": "ADINDA DWIKA FIRDANI",
+    "jk": "P"
+   },
+   {
+    "no": 2,
+    "nis": "2503166",
+    "nama": "AFDAL REFALDHA",
+    "jk": "L"
+   },
+   {
+    "no": 3,
+    "nis": "2503168",
+    "nama": "ALISHA PUTRI ZAHRA",
+    "jk": "P"
+   },
+   {
+    "no": 4,
+    "nis": "2503170",
+    "nama": "AMJAT MULQI",
+    "jk": "L"
+   },
+   {
+    "no": 5,
+    "nis": "2503171",
+    "nama": "ANDRI PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 6,
+    "nis": "2503201",
+    "nama": "DAFFA NUZZAKY ABDILLAH",
+    "jk": "L"
+   },
+   {
+    "no": 7,
+    "nis": "2503172",
+    "nama": "DEWA PRAMANA ZUNA",
+    "jk": "L"
+   },
+   {
+    "no": 8,
+    "nis": "2503173",
+    "nama": "EGY FERNANDO",
+    "jk": "L"
+   },
+   {
+    "no": 9,
+    "nis": "2503174",
+    "nama": "FANI AFNAN JANNATI",
+    "jk": "P"
+   },
+   {
+    "no": 10,
+    "nis": "2503175",
+    "nama": "FERDI EKA PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 11,
+    "nis": "2503177",
+    "nama": "FITRI RAHMADANI",
+    "jk": "P"
+   },
+   {
+    "no": 12,
+    "nis": "2503179",
+    "nama": "GEMA ARRAHMAN HAKIM",
+    "jk": "L"
+   },
+   {
+    "no": 13,
+    "nis": "2503180",
+    "nama": "HAEKAL TRIO PUTRA",
+    "jk": "L"
+   },
+   {
+    "no": 14,
+    "nis": "2503181",
+    "nama": "HANIFA RAMADHANI",
+    "jk": "P"
+   },
+   {
+    "no": 15,
+    "nis": "2503182",
+    "nama": "HELMI AZANI",
+    "jk": "L"
+   },
+   {
+    "no": 16,
+    "nis": "2503183",
+    "nama": "IPNU FADILLAH",
+    "jk": "L"
+   },
+   {
+    "no": 17,
+    "nis": "2503185",
+    "nama": "JIHAN LATIFA",
+    "jk": "P"
+   },
+   {
+    "no": 18,
+    "nis": "2503186",
+    "nama": "KEYLLA DEFINKA",
+    "jk": "P"
+   },
+   {
+    "no": 19,
+    "nis": "2503187",
+    "nama": "M. ADILLA FITRA HARAHAP",
+    "jk": "L"
+   },
+   {
+    "no": 20,
+    "nis": "2503188",
+    "nama": "MEDINA APRILIA",
+    "jk": "P"
+   },
+   {
+    "no": 21,
+    "nis": "2503189",
+    "nama": "MUHAMMAD AKSEL ALKATIRI",
+    "jk": "L"
+   },
+   {
+    "no": 22,
+    "nis": "2503190",
+    "nama": "MUHAMMAD BILL IMAN",
+    "jk": "L"
+   },
+   {
+    "no": 23,
+    "nis": "2503192",
+    "nama": "MUHAMMAD RIZKY",
+    "jk": "L"
+   },
+   {
+    "no": 24,
+    "nis": "2503194",
+    "nama": "MUHAMMAD SATRIA",
+    "jk": "L"
+   },
+   {
+    "no": 25,
+    "nis": "2503195",
+    "nama": "NADIA AFRILIA",
+    "jk": "P"
+   },
+   {
+    "no": 26,
+    "nis": "2503200",
+    "nama": "NIKO PERMANA",
+    "jk": "L"
+   },
+   {
+    "no": 27,
+    "nis": "2503197",
+    "nama": "RAUF RIZIQ PUTRA DANI",
+    "jk": "L"
+   },
+   {
+    "no": 28,
+    "nis": "2503199",
+    "nama": "YUSAB BIHULILAHI",
+    "jk": "L"
+   }
+  ],
+  "sheet": "X PSPT 2"
+ }
+]

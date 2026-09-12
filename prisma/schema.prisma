@@ -1,0 +1,163 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  STUDENT
+  TEACHER
+  ADMIN
+}
+
+model User {
+  id        String   @id @default(uuid())
+  username  String   @unique
+  password  String
+  name      String
+  role      UserRole @default(STUDENT)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  
+  // HomeClass Relations (Where a student belongs)
+  managedHomeClass HomeClass? @relation("WaliKelas")
+  homeClassId      String?
+  homeClass        HomeClass? @relation("StudentHomeClass", fields: [homeClassId], references: [id])
+
+  // Relations for Teacher
+  teachingClasses Class[]    @relation("TeacherSubjects")
+
+  // Other Relations
+  materials     Material[]
+  quizzes       Quiz[]
+  results       QuizResult[]
+  progressTrack UserProgress[]
+  logs          SystemLog[]
+  chatMessages  ChatMessage[]
+}
+
+model ChatMessage {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  role      String   // "user" or "model"
+  content   String
+  createdAt DateTime @default(now())
+}
+
+model SystemLog {
+  id        String   @id @default(uuid())
+  action    String   // e.g., "Created User", "Deleted Class"
+  details   String
+  adminId   String
+  admin     User     @relation(fields: [adminId], references: [id])
+  createdAt DateTime @default(now())
+}
+
+model HomeClass {
+  id          String   @id @default(uuid())
+  name        String   @unique // e.g., "X-IPA-1"
+  waliKelasId String   @unique
+  waliKelas   User     @relation("WaliKelas", fields: [waliKelasId], references: [id])
+  students    User[]   @relation("StudentHomeClass")
+  
+  subjectClasses Class[]  @relation("ClassSubjects")
+  createdAt      DateTime @default(now())
+}
+
+model Class {
+  id          String   @id @default(uuid())
+  name        String   // Subject Name, e.g., "Matematika"
+  description String?
+  classCode   String   @unique @default(cuid())
+
+  // Who studies this? (Link to HomeClass)
+  homeClassId String
+  homeClass   HomeClass @relation("ClassSubjects", fields: [homeClassId], references: [id])
+
+  // Who teaches this? (Multiple Teachers support)
+  teachers    User[]    @relation("TeacherSubjects")
+
+  materials   Material[]
+  quizzes     Quiz[]
+  createdAt   DateTime @default(now())
+}
+
+model Material {
+  id             String   @id @default(uuid())
+  title          String
+  subject        String
+  type           String   // TEXT, VIDEO, PDF
+  content        String
+  videoUrl       String?
+  thumbnailUrl   String?  
+  duration       String
+  difficulty     String
+  gradientColors String   
+  isGlobal       Boolean  @default(false)
+  
+  teacherId      String
+  teacher     User     @relation(fields: [teacherId], references: [id])
+  classId        String?
+  class          Class?    @relation(fields: [classId], references: [id])
+  
+  userProgress   UserProgress[]
+  quizzes        Quiz[]   
+  createdAt      DateTime @default(now())
+}
+
+model UserProgress {
+  id         String   @id @default(uuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  materialId String
+  material   Material @relation(fields: [materialId], references: [id], onDelete: Cascade)
+  progress   Float    @default(0.0) // 0.0 to 100.0
+  isCompleted Boolean @default(false)
+  lastViewed DateTime @default(now())
+  @@unique([userId, materialId])
+}
+
+model Quiz {
+  id             String   @id @default(uuid())
+  title          String
+  subject        String
+  duration       String
+  gradientColors String   
+  isGlobal       Boolean  @default(false)
+  
+  teacherId      String
+  teacher     User     @relation(fields: [teacherId], references: [id])
+  classId        String?
+  class          Class?    @relation(fields: [classId], references: [id])
+  
+  materialId     String?  // Linked material
+  material       Material? @relation(fields: [materialId], references: [id])
+  
+  questions      Question[]
+  results        QuizResult[]
+  createdAt      DateTime @default(now())
+}
+
+model Question {
+  id                 String   @id @default(uuid())
+  quizId             String
+  quiz               Quiz     @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  questionText       String
+  options            String // JSON Stringified array
+  correctAnswerIndex Int
+}
+
+model QuizResult {
+  id        String   @id @default(uuid())
+  quizId    String
+  quiz      Quiz     @relation(fields: [quizId], references: [id], onDelete: Cascade)
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  score     Int
+  total     Int
+  createdAt DateTime @default(now())
+}
