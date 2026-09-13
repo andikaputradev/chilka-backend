@@ -7,9 +7,10 @@
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
+    "glitch-build": "npx prisma generate && npx prisma db push --skip-generate && nest build",
     "render-build": "npm install && npx prisma generate && npx prisma db push && npx prisma db seed && npm run build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
-    "start": "nest start",
+    "start": "node dist/main",
     "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
     "start:prod": "node dist/main",

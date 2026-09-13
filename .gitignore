@@ -59,3 +59,12 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Cadangan database hasil scripts/backup_data.cjs
 /backups
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+functions/
+
+# Uploads (user files)
+/uploads
